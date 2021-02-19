@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  VideoPlayer
 //
-//  Created by Migu on 2019/3/1.
+//  Created by VictorChee on 2019/3/1.
 //  Copyright © 2019 VIctorChee. All rights reserved.
 //
 
